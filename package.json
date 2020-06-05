@@ -1,0 +1,22 @@
+{
+  "name": "hngi7_titans_task2",
+  "version": "1.0.0",
+  "description": "<h1> HNGi-7 || Team-Titans || Task 2</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tosanomagbemi/HNGi7_Titans_Task2.git"
+  },
+  "keywords": [
+    "tosan"
+  ],
+  "author": "tosan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tosanomagbemi/HNGi7_Titans_Task2/issues"
+  },
+  "homepage": "https://github.com/tosanomagbemi/HNGi7_Titans_Task2#readme"
+}
