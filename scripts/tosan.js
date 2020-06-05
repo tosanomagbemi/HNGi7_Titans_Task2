@@ -1,6 +1,12 @@
- 
-var name ='Tosan Omagbemi';
-var email='tosanomagbeni42@gmail.com';
-var  language='Javascript';
-var id=03253;
-console.log(`Hello World, this is ${name} with HNGi7 ID HNG-${id} and email ${email} using ${language} for stage 2 task`);
+tosan = () => {
+    var name, id, language, email;
+    name = "Tosan Omagbemi";
+    id = "HNG-03253";
+    email = "tosanomagbemi42@gmail.com";
+    language = "javascript";
+    return (
+        `Hello World, this is ${name} with HNGi7 ID ${id} and email ${email} using ${language} for stage 2 task`
+    )
+}
+
+console.log(olabode());
